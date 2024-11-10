@@ -1,6 +1,8 @@
 
 # 🌟 Portfolio Repository
 
+- [Demo](https://portfolio-firasv2.netlify.app)
+
 Welcome to my portfolio repository! This project showcases my personal portfolio, highlighting my skills, projects, and experience as a software developer. It is built with modern web technologies to ensure responsiveness, interactivity, and a seamless user experience.
 
 ---
