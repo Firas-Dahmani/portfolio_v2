@@ -14,7 +14,7 @@ import BigTitlte from "../subComponents/BigTitlte";
 
 const Box = styled.div`
   background-color: ${(props) => props.theme.body};
-  height: 200vh;
+  height: 400vh;
   position: relative;
   display: flex;
   align-items: center;
